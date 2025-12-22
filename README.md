@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Nayan Tandukar from Nepal
 
-<!--
-**Nyntdr/Nyntdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student (BCA) | 💻 Web Developer | 🚀 Learning Laravel & PHP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Laravel, PHP, MySQL**
+- 🧑‍🎓 Working on academic and personal web projects
+- 🛠 Interested in **Web Development, Backend Systems & Databases**
+- ⚡ I enjoy turning ideas into working applications
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- PHP
+- Java
+- JavaScript
+
+**Frameworks & Tools**
+- Laravel
+- MySQL
+- XAMPP
+- Git & GitHub
+- VS Code / PhpStorm
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+
+---
+
+## 📂 Projects
+
+- 🎵 **Online Music Album Store**  
+  PHP & MySQL based e-commerce system with cart and wishlist
+
+- 🧑‍🎓 **Student Information Management System**  
+  CRUD system for managing students, courses, and records
+
+- 🏢 **Employee Management System**  
+  Attendance, departments, payroll & Excel import/export (Laravel)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: nayantandukar@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
+
