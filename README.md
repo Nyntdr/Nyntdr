@@ -7,20 +7,22 @@
 - 🛠 Interested in **Web Development, Backend Systems & Databases**
 ---
 ## 🧰 Tech Stack
-**Languages**        **Frameworks & Tools**        **Frontend**
-- PHP                - Laravel                     - HTML 
-- Java               - MySQL                       - CSS
-- JavaScript         - XAMPP                       - Bootstrap 
-                     - Git & GitHub
-                     - VS Code / PhpStorm
+**Languages** 
+  - PHP,Java,Javascripts
+       
+**Frameworks & Tools**
+  - Laravel, MySQL, XAMPP, Git & GitHub, VS Code / PHPStorm, Figma, Canva
+  
+**Frontend**
+  - HTML, CSS, Bootstrap
 ---
 ## 📂 Project
 - 🎵 **Online Music Album Store**  
   PHP & MySQL based e-commerce system with cart and wishlist
 - 🧑‍🎓 **Student Information Management System**  
   CRUD system for managing students, courses, and records
-- 🫁 **Pneumonia Detection System using CNN**
-  Pneumonia detection thorugh chest X-ray using CNN algorithm using python for image processing and classification and PHP   
+- 🫁 **Pneumonia Detection System using CNN**  
+  PHP & Python based chest X-ray image processing to determine pneumonia
 - 🏢 **Employee Management System (Ongoing)**  
   Attendance, departments, payroll & Excel import/export (Laravel)
 ---
