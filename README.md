@@ -8,7 +8,7 @@
 ---
 ## 🧰 Tech Stack
 **Languages** 
-  - PHP,Java,Javascripts
+  - PHP,Java,Javascript
        
 **Frameworks & Tools**
   - Laravel, MySQL, XAMPP, Git & GitHub, VS Code / PHPStorm, Figma, Canva
