@@ -1,8 +1,8 @@
 # Hi 👋, I'm Nayan Tandukar from Nepal
-🎓 Computer Science Student (BCA) | 💻 Web Developer | 🚀 Learning Laravel & PHP  
+🎓 Computer Science Student (BCA) | 💻 Web Developer | 🚀 Learning Laravel & Vue.js  
 ---
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Laravel, PHP, MySQL**
+- 🌱 Currently learning **Laravel, Vue.js**
 - 🧑‍🎓 Working on academic and personal web projects
 - 🛠 Interested in **Web Development, Backend Systems & Databases**
 ---
