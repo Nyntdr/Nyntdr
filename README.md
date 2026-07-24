@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nayan Tandukar from Nepal
-🎓 Computer Science Student (BCA) | 💻 Laravel Developer | 🚀 Leaning and working with Laravel & Vue.js  
+🎓 Computer Science Student (BCA) | 💻 Laravel Developer | 🚀 Learning and working with Laravel & Vue.js  
 ---
 ## 👨‍💻 About Me
 - 🌱 Currently learning **Laravel, Vue.js**
