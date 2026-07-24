@@ -2,9 +2,10 @@
 🎓 Computer Science Student (BCA) | 💻 Laravel Developer | 🚀 Learning and working with Laravel & Vue.js  
 ---
 ## 👨‍💻 About Me
-- 🌱 Currently learning **Laravel, Vue.js**
-- 🧑‍🎓 Working on academic and personal web projects
+- 🌱 Currently learning and working as a trainee developer with **Laravel, Vue.js**
+- 🧑‍🎓 Working on academic and personal web projects as well
 - 🛠 Interested in **Web Development, Backend Systems & Databases**
+- UI styling is fun but can be stressful sometimes
 - Working on compliance, asset and auditing systems
 ---
 ## 🧰 Tech Stack
