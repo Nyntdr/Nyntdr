@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nayan Tandukar from Nepal
-🎓 Computer Science Student (BCA) | 💻 Web Developer | 🚀 Learning Laravel & Vue.js  
+🎓 Computer Science Student (BCA) | 💻 Web Developer | 🚀 Leaning and working Laravel & Vue.js  
 ---
 ## 👨‍💻 About Me
 - 🌱 Currently learning **Laravel, Vue.js**
@@ -8,13 +8,13 @@
 ---
 ## 🧰 Tech Stack
 **Languages** 
-  - PHP,Java,Javascript
+  - PHP,Java,Javascript,Python
        
 **Frameworks & Tools**
-  - Laravel, MySQL, XAMPP, Git & GitHub, VS Code / PHPStorm, Figma, Canva
+  - Laravel, MySQL, XAMPP, Git & GitHub, VS Code / PHPStorm, Figma, Canva, Postman
   
 **Frontend**
-  - HTML, CSS, Bootstrap
+  - HTML, CSS, Bootstrap, Vue.js
 ---
 ## 📂 Project
 - 🎵 **Online Music Album Store**  
