@@ -13,10 +13,10 @@
   - PHP,Java,Javascript,Python
        
 **Frameworks & Tools**
-  - Laravel, MySQL, XAMPP, Git & GitHub, VS Code / PHPStorm, Figma, Canva, Postman
+  - Laravel, MySQL, PostgresSQL, FastAPI, XAMPP, Git , VS Code, Figma, Canva, Postman, Docker
   
 **Frontend**
-  - HTML, CSS, Bootstrap, Vue.js, Tailwind
+  - HTML, CSS, Bootstrap, Vue.js, Tailwind, Quasar
 ---
 ## 📂 Project
 - 🎵 **Online Music Album Store**  
@@ -25,8 +25,10 @@
   CRUD system for managing students, courses, and records
 - 🫁 **Pneumonia Detection System using CNN**  
   PHP & Python based chest X-ray image processing to determine pneumonia
-- 🏢 **Employee Management System (Ongoing)**  
+- 🏢 **Employee Management System**  
   Attendance, departments, payroll & Excel import/export (Laravel)
+- **AI Career Guidance**  
+  Get your preferred career path by uploading your resume and get recommendations through AI on skills gaps and recommendations
 ---
 ## 📫 Contact Me
 - 📧 Email: nayantandukar@gmail.com
